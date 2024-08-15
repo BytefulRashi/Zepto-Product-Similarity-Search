@@ -14,11 +14,10 @@ This project implements a product search engine for Zepto using Natural Language
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Project Structure](#project-structure)
-4. [Screenshots](#screenshots)
-5. [Technologies Used](#technologies-used)
-6. [Future Work](#future-work)
-7. [Contributing](#contributing)
-8. [License](#license)
+4. [Technologies Used](#technologies-used)
+5. [Future Work](#future-work)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ---
 
