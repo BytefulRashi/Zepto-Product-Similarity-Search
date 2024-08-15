@@ -1,0 +1,6 @@
+streamlit==1.25.0
+pandas==2.0.3
+torch==2.0.1
+transformers==4.32.0
+faiss-cpu==1.7.3
+numpy==1.25.2
