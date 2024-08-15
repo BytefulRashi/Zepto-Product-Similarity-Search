@@ -76,21 +76,9 @@ This project implements a product search engine for Zepto using Natural Language
 ├── faiss_search.py                # FAISS similarity search code
 ├── requirements.txt               # Dependencies
 ├── data/                          # Folder for dataset (20,000 rows sample)
-├── screenshots/                   # Folder for screenshots of the app
 └── README.md                      # Project documentation
 ```
 
----
-
-### Screenshots
-
-**1. Application Interface**
-
-![Streamlit App Interface](screenshots/app_interface.png)
-
-**2. Query Results**
-
-![Search Results](screenshots/search_results.png)
 
 ---
 
